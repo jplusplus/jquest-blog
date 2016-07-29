@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: Blog home
+  url: /
+
+- title: jQuest
+  url: http://www.jquestapp.com
+
+- title: By Journalism++
+  url: http://www.jplusplus.org
+
+- title: Search
+  url: /search/

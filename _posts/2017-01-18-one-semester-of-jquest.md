@@ -14,7 +14,7 @@ Students are asked to work on the representativity of elected representatives in
 
 ![The home screen of the investigation (left) and the data input screen (right)](../images/first_semester_1.png)
 
-<small>The home screen of the investigation (left) and the data input screen (right)</small>
+<span style="font-size: 0.6em; font-weight:bold">The home screen of the investigation (left) and the data input screen (right)</span>
 
 The data from all students can be downloaded at any time by any student and be used for articles on the topic, such as gender equality across time or borders, the relative age of representatives etc. Some students did publish articles using jQuest data, some of which were published in the national press of their country (Switzerland). We, at Journalism++, also use the data to publish articles, such as an analysis of diversity among French politicians, [available on StreetVox](http://www.streetpress.com/sujet/1484673356-diversite-elus-en-europe), a news outlet for youngsters. 
 
@@ -24,7 +24,7 @@ Students can access over 50 courses on different aspects of datajournalism. The 
 
 ![A screenshot of the first course in the curriculum.](../images/first_semester_2.png)
 
-<small>A screenshot of the first course in the curriculum.</small>
+<span style="font-size: 0.6em; font-weight:bold">A screenshot of the first course in the curriculum.</span>
 
 Several courses were added after students or trainers requested them (the course on online security, for instance, or the tutorial on how to use Isotope.js, a Javascript library).
 
@@ -36,7 +36,7 @@ A Slack channel lets students contact jQuest staff at any time to raise issues o
 
 ![A screenshot of the Slack channel.](../images/first_semester_3.png)
 
-<small>A screenshot of the Slack channel.</small>
+<span style="font-size: 0.6em; font-weight:bold">A screenshot of the Slack channel.</span>
 
 # Reach and usage
 
@@ -65,7 +65,7 @@ Our benchmark of reaching 10 schools in the first year is largely passed.
 
 ![Geographical distribution of students on jQuest in the Fall semester 2016.](../images/first_semester_4.png)
 
-<small>Geographical distribution of students on jQuest in the Fall semester 2016.</small>
+<span style="font-size: 0.6em; font-weight:bold">Geographical distribution of students on jQuest in the Fall semester 2016.</span>
 
 ## Students
 
@@ -75,7 +75,7 @@ Our benchmark of reaching 100 students in the first year is largely passed.
 
 ![Active students by day since September 1st, 2016.](../images/first_semester_5.png)
 
-<small>Active students by day since September 1st, 2016.</small>
+<span style="font-size: 0.6em; font-weight:bold">Active students by day since September 1st, 2016.</span>
 
 ## Activities
 
@@ -83,7 +83,7 @@ In total, students spent 713 hours on jQuest and collected close to 40,000 data 
 
 ![Data points collected and entered by students since September 1st, 2016.](../images/first_semester_6.png)
 
-<small>Data points collected and entered by students since September 1st, 2016.</small>
+<span style="font-size: 0.6em; font-weight:bold">Data points collected and entered by students since September 1st, 2016.</span>
 
 The amount of work is unevenly spread between students. A minority of users did most of the work, as was expected. Our benchmark was that at least 5% of students carry out more than 100 tasks. In fact, more than 15% passed this milestone (see distribution below). 
 
@@ -91,13 +91,13 @@ However, we expected that over 90% of students would complete at least 10 tasks,
 
 ![Distribution of points among students.](../images/first_semester_7.png)
 
-<small>This histogram shows that 92 students earned between 1 and 5000 points on jQuest. A student receives about 200 points for each piece of information she gathers.</small>
+<span style="font-size: 0.6em; font-weight:bold">This histogram shows that 92 students earned between 1 and 5000 points on jQuest. A student receives about 200 points for each piece of information she gathers.</span>
 
 Engagement over course material was similarly uneven. Over half of students read one or more course material. It falls short of our goal of having almost all students read at least some of them (our benchmark), but language issues probably account for most of this discrepancy. One in seven students read more than 20 courses, which is again slightly below our expectations. In the second season of jQuest, we will integrate course materials more closely with the user experience, making sure that students complete quizzes (for which they will have to read through the course materials) directly in the “tunnel” of the user progression.
 
 ![Distribution of course materials read among students.](../images/first_semester_8.png)
 
-<small>This histogram shows that 24 students read all courses available on jQuest.</small>
+<span style="font-size: 0.6em; font-weight:bold">This histogram shows that 24 students read all courses available on jQuest.</span>
 
 Finally, the discussion channels that we set up with the students will be improved. There were some positive interactions and interesting discussions. Competition between schools (a leaderboard ranks schools by the number of points their students have) led to students taking to Twitter to tease each other when their school passed another one on the leaderboard.
 

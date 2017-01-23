@@ -14,7 +14,7 @@ Students are asked to collect data on representatives at different levels in the
 
 As of January 21<sup>st</sup>, 2017, the Political Gaps database contains 23,000 elected representatives, for which some basic data has been scraped online. Students manually collected data on 5,000 of those, using information published online or by contacting the elected officials directly. For each person, we collect data on seven dimensions: Gender, age, birthplace, education, occupation, political leaning and role in the assembly.
 
-[PoliticalGaps.eu](http://www.politicalgaps.eu) shows the progress of the investigation for each legislature we research 
+[PoliticalGaps.eu](http://www.politicalgaps.eu) shows the progress of the investigation for each legislature we researched. 
 
 ![The National Assembly of France on PoliticalGaps.eu](../images/publishing_1.png)
 
